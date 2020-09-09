@@ -1,0 +1,1 @@
+This project includes few mini projects based on applications of computer vision library openCV .The mini projects include basic motion detection,find and draw contours,drawing function,image pyramids,add text to video,bitwise operations .
